@@ -1,1 +1,1 @@
-# Data Science Google Store Data Analysis projet with Pandas
+# Data Science Google Store Data Analysis project with Pandas
